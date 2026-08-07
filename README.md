@@ -2,7 +2,7 @@
 ### Analista SAP MM/SD | Soporte Funcional & Configuración | Automatización SAP–SQL con Python
 
 📍 Rengo, Chile · 📧 wilmercorrea97@gmail.com · 📱 +56 9 8536 5830
-[LinkedIn](https://linkedin.com/in/wilmercorrea-3565b4147) · [GitHub](https://github.com/wilmercorrea97)
+[LinkedIn](https://www.linkedin.com/in/wilmer-correa-3565b4147/) · [GitHub](https://github.com/wilmercorrea97)
 
 ---
 
