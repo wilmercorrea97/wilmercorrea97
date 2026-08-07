@@ -30,8 +30,8 @@ Analista SAP MM/SD con experiencia en soporte funcional, configuración (SPRO) y
 |---|---|---|
 | **Validador de 3 vías (WE-RE-MIRO)** | RFC en Python que extrae OC's y facturas desde tablas SAP hacia SQL, automatizando la detección de discrepancias entre entrada de mercancía, recepción de factura e ingreso contable. | 🔜 Por subir *(versión anonimizada del proyecto real en producción)* |
 | **Dashboard KPIs MM/SD** | Panel con datos ficticios mostrando rotación de inventario, tiempo de ciclo pedido-entrega-factura y alertas de discrepancias OC-factura. | 🔜 Por construir |
-| **Config SPRO documentada** | Guía paso a paso de configuración de almacenes y rangos de números de cuenta, con capturas de un sistema de práctica. | 🔜 Por construir |
-| **Caso EDOC_COCKPIT / DTE-SII** | Documento técnico explicando el flujo de facturación electrónica y los tipos de incidencias más comunes al enviar DTE al SII. | 🔜 Por construir |
+
+
 
 ### Desarrollo de software
 
