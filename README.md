@@ -16,7 +16,7 @@ Analista SAP MM/SD con experiencia en soporte funcional, configuración (SPRO) y
 
 **SAP:** MM · SD · SPRO (config. almacenes, rangos de cuenta) · Datos Maestros · Seguridad y Autorizaciones · EDOC_COCKPIT · MM01-03 · VA01-03 · VA05 · SE16N · Tablas Z · Gestión de Transportes (OT)
 
-**Desarrollo & Datos:** Python · SQL · RFC (SAP–Python) · JavaScript
+**Desarrollo & Datos:** Python · SQL · RFC (SAP) · JavaScript
 
 **Infraestructura:** VMware ESXi · Linux · Windows server administation · Redes IP · Ubiquiti · Docker
 
