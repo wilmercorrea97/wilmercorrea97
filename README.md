@@ -63,4 +63,4 @@ Soporte técnico niveles 1-2, gestión de incidencias, redes 4G y microondas.
 
 ## 📫 Contacto
 
-¿Buscas un analista SAP MM/SD que también sepa automatizar procesos? Escríbeme por [LinkedIn](https://linkedin.com/in/wilmercorrea-3565b4147) o al correo de arriba.
+¿Buscas un analista SAP MM/SD que también sepa automatizar procesos? Escríbeme por [LinkedIn](https://www.linkedin.com/in/wilmer-correa-3565b4147/) o al correo de arriba.
