@@ -16,9 +16,9 @@ Analista SAP MM/SD con experiencia en soporte funcional, configuración (SPRO) y
 
 **SAP:** MM · SD · SPRO (config. almacenes, rangos de cuenta) · Datos Maestros · Seguridad y Autorizaciones · EDOC_COCKPIT · MM01-03 · VA01-03 · VA05 · SE16N · Tablas Z · Gestión de Transportes (OT)
 
-**Desarrollo & Datos:** Python · SQL · RFC (SAP–Python) · C# .NET Core · Java (Spring Boot) · JavaScript
+**Desarrollo & Datos:** Python · SQL · RFC (SAP–Python) · JavaScript
 
-**Infraestructura:** VMware ESXi · Linux · Active Directory · Redes IP · Ubiquiti · Docker (básico)
+**Infraestructura:** VMware ESXi · Linux · Windows server administation · Redes IP · Ubiquiti · Docker
 
 ---
 
@@ -36,9 +36,6 @@ Analista SAP MM/SD con experiencia en soporte funcional, configuración (SPRO) y
 ### Desarrollo de software
 
 - **[SignalR-ChartJs](https://github.com/wilmercorrea97/SignalR-ChartJs)** — Visualización en tiempo real de cambios en base de datos. .NET Framework + SignalR + SQL Server / HTML + JS + Chart.js
-- **[APISistemaVenta](https://github.com/wilmercorrea97/APISistemaVenta)** — API para gestión de inventario de productos informáticos. C# + .NET Core
-- **[APPSistemaVenta](https://github.com/wilmercorrea97/APPSistemaVenta)** — Software de inventario y gestión de usuarios con dashboard. Angular + HTML/CSS
-- **[CRUD_No_Country](https://github.com/wilmercorrea97/CRUD_No_Country)** — CRUD de gestión de usuarios. Java + Spring Boot + Angular + MySQL
 
 ---
 
